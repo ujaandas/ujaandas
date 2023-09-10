@@ -12,10 +12,10 @@
 
 ## 🌟 Skills and Talents:
 - **💻 Programming Languages:** JavaScript/TypeScript, C++, Python, Java
-- **🌐 Web Development:** MongoDB, Express.js, React.js, Node.js
+- **🌐 Web Development:** Express.js, React.js, Node.js
 - **📊 Data Analysis:** Pandas, NumPy, Matplotlib
 - **🗃️ Databases:** MySQL, MongoDB
-- **⚙️ Tools & Technologies:** Git, GitHub, RESTful APIs
+- **⚙️ Tools & Technologies:** Git, GitHub, Node.js, TailwindCSS, MUI
 
 ## 📝 Publications:
 - **📚 "FARPLS:** A Feature Aligned Robot Trajectory Preference Labelling System to Assist Human Labeller's Preference Elicitation" - Association of Computing Machinery Conference on Computer-Human Interaction, 2024
