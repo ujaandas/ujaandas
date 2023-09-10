@@ -18,10 +18,10 @@
 - **⚙️ Tools & Technologies:** Git, GitHub, RESTful APIs
 
 ## 📝 Publications:
-- **📚 "FARPLS:** A Feature Aligned Robot Trajectory Preference Labelling System to Assist Human Labeller's Preference Elicitation" - International Conference on Computer-Human Interaction, 2024
+- **📚 "FARPLS:** A Feature Aligned Robot Trajectory Preference Labelling System to Assist Human Labeller's Preference Elicitation" - Association of Computing Machinery Conference on Computer-Human Interaction, 2024
 
 ## 🎯 Hobbies:
-- **👨‍🍳 Cooking:** I love eating good food, but my wallet doesn't - so I just make it myself! Currently trying to pick up some more traditional Indian cuisine - send me recipes!
+- **👨‍🍳 Cooking:** I love eating good food, but my wallet doesn't - so I just make it myself. Currently trying to pick up some more traditional Indian cuisine - send me recipes!
 - **⌨️ Mechanical Keyboards:** The pen is mightier than the sword, but my keyboard weighs 2.15kg and will _definitely_ cause more damage than a pen. Currently running a QK75 (all weights, cream, gold knob alongside case, PCB and plate foam) with lubed/filmed (205g0, 105g0) Gateron Oil Kings, Owlstab V2s, with Cherry Milkshake Weirdos on top.
 - **🎧 Headphones:** Nothing beats getting back from a long day and plugging in some 2000's rock - running my HD660s off of a FiiO K5 Pro, with the Tangzu Wan'Er or Salnotes 7Hz Zeros for more portable options. 
 - **💻 Coding:** You probably could've guessed this one...
