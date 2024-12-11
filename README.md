@@ -1,12 +1,21 @@
-# Hi, I'm Ujaan!
+# Hi, I'm Ujaan! 👋
 
-## 🤠 About Me:
-- 🖥️ Leveraging tech to create innovative solutions
-- 🏫 Studying a Bachelor's of Engineering in Computer Engineering @ HKUST
-- 🧑‍💻 Check out my projects here or on my website!
 
-## 💪 What I'm up to:
-- **🚧 Revamping my personal site!** - Still a WIP, but check it out at (http://ujaandas.github.io/)
-- **🤖 Final Year Project** We’re developing a person-specific following robot designed for use in hospitals to assist with various tasks.
-- **🔬 Researching large-scale assertion generation in Java** - I’m working with Prof. SC Cheung at HKUST on research focused on large-scale assertion generation in Java.
-- **📈 Working on a bunch of different projects** - Check them out!
+## 🛠️ About Me
+
+I'm a senior year student at HKUST 🇭🇰, pursuing a B.Eng in Computer Engineering. Previously, I was an exchange student at Northwestern University.
+
+- 💻 My interests lie in low-level and embedded development, but lately, I've been exploring language semantics.
+- 🧑‍🍳 When I'm not at my laptop, you'll find me cooking or playing on my 3DS (though, let's be honest, I'm usually at my laptop).
+
+
+## 🔧 Lately I've Been Working On...
+1. 🤖 A person-specific following robot for our final year project  
+2. 🎹 Custom STM32 keyboard firmware and layouts  
+3. 🛠️ Developing an interface for Nix and Nix-adjacent tooling  
+
+
+## 🌐 Contact Me
+
+Feel free to reach out through my **[website](https://ujaandas.me)**!  
+I'm always happy to connect.
