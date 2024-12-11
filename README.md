@@ -3,11 +3,15 @@
 
 ## 🛠️ About Me
 
-I'm a senior year student at HKUST 🇭🇰, pursuing a B.Eng in Computer Engineering. Previously, I was an exchange student at Northwestern University.
+I'm a senior year student at HKUST 🇭🇰 pursuing a B.Eng in Computer Engineering. Previously, I was an exchange student at Northwestern University.
 
-- 💻 My interests lie in low-level and embedded development, but lately, I've been exploring language semantics.
-- 🧑‍🍳 When I'm not at my laptop, you'll find me cooking or playing on my 3DS (though, let's be honest, I'm usually at my laptop).
+- 💻 My interests are in embedded development and low-level programming. Recently, I’ve been diving deeper into language semantics.
+- 🧑‍🍳 When I'm not at my laptop, you can find me experimenting with recipes or playing on my 3DS (though, to be honest, I'm usually glued to my laptop).
 
+## 🍳 Skills
+- Languages: C/C++, Python, Java, JavaScript/Typescript, Bash, HTML/CSS, SQL 
+- Frameworks: Maven, FastAPI, Next.js, React.js, Node.js
+- Technologies: Linux, Git, Docker, MongoDB, MySQL, PostgreSQL, Github, Azure, AWS
 
 ## 🔧 Lately I've Been Working On...
 1. 🤖 A person-specific following robot for our final year project
@@ -18,5 +22,4 @@ I'm a senior year student at HKUST 🇭🇰, pursuing a B.Eng in Computer Engine
 
 ## 🌐 Contact Me
 
-Feel free to reach out through my **[website](https://ujaandas.me)**!  
-I'm always happy to connect.
+Feel free to reach out through my **[website](https://ujaandas.me)**! I'm always happy to connect.
