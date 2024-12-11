@@ -10,9 +10,10 @@ I'm a senior year student at HKUST 🇭🇰, pursuing a B.Eng in Computer Engine
 
 
 ## 🔧 Lately I've Been Working On...
-1. 🤖 A person-specific following robot for our final year project  
-2. 🎹 Custom STM32 keyboard firmware and layouts  
-3. 🛠️ Developing an interface for Nix and Nix-adjacent tooling  
+1. 🤖 A person-specific following robot for our final year project
+2. ☕️ Research for AI-based test-case generation in Java
+3. 🎹 My custom STM32 keyboard firmware and layouts  
+4. 🛠️ Developing an interface for Nix and Nix-adjacent tooling  
 
 
 ## 🌐 Contact Me
