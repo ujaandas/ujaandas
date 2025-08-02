@@ -1,7 +1,9 @@
-tldr; I like Nix, Python, and JS. I'm interested in programming languages/analysis, and the intersection thereof and AI. 
+Hey, I'm Ujaan.
 
-I have professional experience across the entire stack, ranging from frontend development with Next.js, backend with FastAPI, and systems engineering with Java and Python.
+I like Python, Java, and Nix, and I'm learning Go as well. I'm interested in programming languages/analysis, and its intersection with AI. 
 
-In my spare time, I work on my homelab with Nix, or various low-level embedded/OS projects. 
+I've got professional experience across the whole stack, ranging from frontend development with Next.js, backend services with FastAPI, and systems engineering with Java and Python.
+
+In my spare time, I work on my homelab with Nix, random CLI tools in Go/Python, or various low-level embedded/OS projects. 
 
 Check out my blog at: [ujaandas.me](https://ujaandas.me)
