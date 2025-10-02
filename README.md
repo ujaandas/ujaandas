@@ -1,9 +1,11 @@
-Hey, I'm Ujaan.
+# Hey, I'm Ujaan (Ooj) 👋
 
-I like Python, Go and Nix. I'm interested in programming languages/analysis, and its intersection with AI. 
+I like building stuff when I should probably be studying.
 
-I've got professional experience across the whole stack, ranging from frontend development with Next.js, backend microservices with FastAPI, and systems engineering with Java and Python.
+I've worked across a wide range of stacks - from ingesting satellite data for geospatial platforms (web, backend), to writing AST parsers for Java (systems), to building React.js dashboards (frontend).
 
-In my spare time, I work on my homelab with Nix, random CLI tools in Go/Python, or various low-level embedded/OS projects. 
+Lately, I've been enjoying **Go** for backend and systems work. More formally, I have experience across the stack with **Python**, **JS/TS**, **C**, and **Java**.
 
-Check out my blog at: [ujaandas.me](https://ujaandas.me)
+I'm a published author in **ACM/IUI'24** and **IEEE/ICSE'26**.
+
+Check out my resume, socials, and thoughts on the world and Nix on my blog: [ujaandas.me](https://ujaandas.me)
