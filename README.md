@@ -1,11 +1,8 @@
-# Hey, I'm Ujaan (Ooj) 👋
+# Hey, I'm Ujaan
 
-I like building stuff when I should probably be studying.
+I'm currently a Master's in Computer Science student at the University of Warwick in the UK, and a budding software engineer.
+I'm well-versed in backend and systems programming, but also enjoy self-hosting and contributing to open-source when I can.
 
-I've worked across a wide range of stacks - from ingesting satellite data for geospatial platforms (web, backend), to writing AST parsers for Java (systems), to building React.js dashboards (frontend).
+I enjoy working with Python, Go and C++, but can wrangle around web-dev when needed.
 
-Lately, I've been enjoying **Go** for backend and systems work. More formally, I have experience across the stack with **Python**, **JS/TS**, **C**, and **Java**.
-
-I'm a published author in **ACM/IUI'24** and **IEEE/ICSE'26**.
-
-Check out my resume, socials, and thoughts on the world and Nix on my blog: [ujaandas.me](https://ujaandas.me)
+Read more about my projects and thoughts on the world on my [blog](https://ujaandas.github.io/).
